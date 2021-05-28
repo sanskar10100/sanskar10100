@@ -9,6 +9,7 @@ I'm Sanskar, a CS Undergrad @ BBDU, India. I build beautiful and intuitive nativ
 - Android, with Java and Kotlin. Mostly focused around MVC with Firebase for cloud backend.
 
 
-[![Sanskar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar10100)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanskar10100&show_icons=true&theme=dracula)
 
-[![Sanskar's Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanskar10100)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sanskar10100&show_icons=true&theme=onedark)
+
