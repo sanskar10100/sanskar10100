@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Programming in general 😅️**
 
-- 📫 How to reach me **sanskar10100@gmail.com**
+- 📫 Reach me at **sanskar10100@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1PnVVGjkfPv_QU4B6ruKobaDbh0rEKSYj/view?usp=sharing)
 
