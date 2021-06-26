@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanskar</h1>
 <h3 align="center">An Android and Desktop Native developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar10100" alt="sanskar10100" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar10100&theme=dracula" alt="sanskar10100" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sanskar10100" target="blank"><img src="https://img.shields.io/twitter/follow/sanskar10100?logo=twitter&style=for-the-badge" alt="sanskar10100" /></a> </p>
 
