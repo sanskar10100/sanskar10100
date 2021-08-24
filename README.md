@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sanskar10100" target="blank"><img src="https://img.shields.io/twitter/follow/sanskar10100?logo=twitter&style=for-the-badge" alt="sanskar10100" /></a> </p>
 
-- 🔭 I’m currently working on [Ashwini](https://github.com/AshwiniApp/Ashwini)
+- 🔭 I’m currently working on **Channels**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Server-side programming**
 
 - 👨‍💻 All of my projects are available at [my website](https://sanskar10100.github.io)
 
