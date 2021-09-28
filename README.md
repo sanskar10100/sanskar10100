@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Channels**
 
-- 🌱 I’m currently learning **Server-side programming**
+- 🌱 I’m currently learning **Server-side programming and Cloud**
 
 - 👨‍💻 All of my projects are available at [my website](https://sanskar10100.github.io)
 
