@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://sanskar10100.github.io)
 
-- 💬 Ask me about **Programming in general 😅️**
+- 💬 Ask me about **Android or Programming in general 😅️**
 
 - 📫 Reach me at **sanskar10100@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1PnVVGjkfPv_QU4B6ruKobaDbh0rEKSYj/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/127Ve1Db8-BGBK0l14024-r4auLbUwYmI/view)
 
-- ⚡ Fun fact **I pretend I'm a good gamer (I'm not)**
+- ⚡ Fun fact **I pretend I'm a good gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
