@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/127Ve1Db8-BGBK0l14024-r4auLbUwYmI/view)
 
+- 📝 I occasionally write articles on [HashNode](https://sanskar10100.hashnode.dev)
+
 - ⚡ Fun fact **I pretend I'm a good gamer**
 
 <h3 align="left">Connect with me:</h3>
