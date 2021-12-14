@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanskar10100" target="blank"><img src="https://img.shields.io/twitter/follow/sanskar10100?logo=twitter&style=for-the-badge" alt="sanskar10100" /></a> </p>
 
-- 🔭 I’m currently working on **Channels, Questionnaire, Transaction, Probe and Snippets**
+- 🔭 I’m currently working on **Channels, [Questionnaire](https://github.com/sanskar10100/Questionnaire), [Transactions](https://github.com/sanskar10100/Transactions), Probe and [Snippets](https://github.com/SnippetsDev)**
 
 - 🌱 I’m currently learning **Server-side programming and Cloud**
 
