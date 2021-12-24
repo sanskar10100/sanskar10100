@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](https://sanskar10100.github.io)
 
-- 💬 Ask me about **Android or Programming in general 😅️**
+- 💬 Ask me about **anything Android**
 
 - 📫 Reach me at **sanskar10100@gmail.com**
 
