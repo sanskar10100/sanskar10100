@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar10100&theme=dracula" alt="sanskar10100" /></a> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/sanskar10100/count.svg)
+**Vistor Count:** ![Visitor Count](https://profile-counter.glitch.me/sanskar10100/count.svg)
 
 - 🔭 I’m currently working on **Channels, [Questionnaire](https://github.com/sanskar10100/Questionnaire), [Transactions](https://github.com/sanskar10100/Transactions), Probe and [Snippets](https://github.com/SnippetsDev)**
 
