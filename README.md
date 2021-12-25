@@ -70,7 +70,6 @@
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/asus-laptop-000000?style=for-the-badge&logo=asus&logoColor=white">
 </p>
-<br>
 
 ## Random Stats
 
