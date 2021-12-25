@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://twitter.com/sanskar10100" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sanskar10100"/></a>
 <a href="https://linkedin.com/in/sanskar10100" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="in/sanskar10100"/></a>
-<a href="https://stackoverflow.com/users/6315197" target="blank"><img align="left" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="6315197"/></a>
+<a href="https://stackoverflow.com/users/6315197" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="6315197"/></a>
 </p>
 
 ## Tech Stack:
