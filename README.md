@@ -28,8 +28,6 @@
 <a href="https://stackoverflow.com/users/6315197" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="6315197"/></a>
 </p>
 
-<br>
-
 ## Tech Stack:
 <p align="left">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
