@@ -72,12 +72,10 @@
 </p>
 <br>
 
+## Random Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar10100&show_icons=true&theme=radical&locale=en&layout=compact" alt="sanskar10100" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar10100&show_icons=true&theme=dark&locale=en" alt="sanskar10100" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanskar10100&show_icons=true&theme=dark&locale=en" alt="sanskar10100" /></p>
-
-<br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar10100&" alt="sanskar10100" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar10100&" alt="sanskar10100" /></p>
