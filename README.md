@@ -23,13 +23,9 @@
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanskar10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanskar10100" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanskar10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskar10100" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6315197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6315197" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanskar10100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanskar10100" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sanskar10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanskar10100" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanskar10100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="sanskar10100" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanskar10100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanskar10100" height="30" width="40" /></a>
+<a href="https://twitter.com/sanskar10100" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sanskar10100"/></a>
+<a href="https://linkedin.com/in/sanskar10100" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="in/sanskar10100"/></a>
+<a href="https://stackoverflow.com/users/6315197" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="6315197"/></a>
 </p>
 
 <br>
