@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Channels, [Questionnaire](https://github.com/sanskar10100/Questionnaire), [Transactions](https://github.com/sanskar10100/Transactions), Probe and [Snippets](https://github.com/SnippetsDev)**
 
-- 🌱 I’m currently learning **Server-side programming and Cloud**
+- 🌱 I’m currently learning **more about Android**
 
 - 👨‍💻 All of my projects are available at [my website](https://sanskar10100.github.io)
 
