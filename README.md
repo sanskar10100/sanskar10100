@@ -9,7 +9,7 @@
 [![Gists Badge](https://badges.pufler.dev/gists/sanskar10100)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sanskar10100)](https://badges.pufler.dev)
 
-- 🔭 I’m currently working on **Channels, [Questionnaire](https://github.com/sanskar10100/Questionnaire), [Transactions](https://github.com/sanskar10100/Transactions), Probe and [Snippets](https://github.com/SnippetsDev)**
+- 🔭 I’m currently working (or trying to work) on **Channels, [Questionnaire](https://github.com/sanskar10100/Questionnaire), [Transactions](https://github.com/sanskar10100/Transactions), Probe and [Snippets](https://github.com/SnippetsDev)**
 
 - 🌱 I’m currently learning **more about Android**
 
