@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **more about Android**
 
-- 👨‍💻 All of my projects are available at [my website](https://sanskar10100.github.io)
+- 👨‍💻 All of my projects are available [right here](https://github.com/sanskar10100?tab=repositories)
 
 - 💬 Ask me about **anything Android**
 
