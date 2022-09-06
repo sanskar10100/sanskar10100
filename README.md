@@ -9,9 +9,9 @@
 [![Gists Badge](https://badges.pufler.dev/gists/sanskar10100)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/sanskar10100)](https://badges.pufler.dev)
 
-- 🔭 I’m currently working (or trying to work) on [Transactions](https://github.com/sanskar10100/Transactions and [Snippets](https://github.com/SnippetsDev)**
+- 🔭 I’m currently working (or trying to work) on [Transactions](https://github.com/sanskar10100/Transactions) and [Snippets](https://github.com/SnippetsDev)
 
-- 🌱 I’m currently learning **more about Android**
+- 🌱 I’m currently learning **more about Android and some Golang**
 
 - 👨‍💻 All of my projects are available [right here](https://github.com/sanskar10100?tab=repositories)
 
