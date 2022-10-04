@@ -3,12 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar10100&theme=dracula" alt="sanskar10100" /></a> </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/sanskar10100/sanskar10100)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/sanskar10100)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/sanskar10100)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/sanskar10100)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/sanskar10100)](https://badges.pufler.dev)
-
 - 🔭 I’m currently working (or trying to work) on [Transactions](https://github.com/sanskar10100/Transactions) and [Snippets](https://github.com/SnippetsDev)
 
 - 🌱 I’m currently learning **more about Android and some Golang**
